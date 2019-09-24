@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="7422c9f9-ef66-4149-8eda-909a98942cf8" solutionId="7422c9f9-ef66-4149-8eda-909a98942cf8" resetWebServer="false" name="SynContactoADPortal" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="e226531c-706d-4963-9dfd-c35635e26925" />
+  </features>
+</package>

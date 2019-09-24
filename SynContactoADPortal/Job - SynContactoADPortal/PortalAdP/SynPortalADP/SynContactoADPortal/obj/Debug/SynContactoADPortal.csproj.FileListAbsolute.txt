@@ -1,0 +1,36 @@
+C:\Users\f_vargas.ADPPERU\Documents\Visual Studio 2010\Projects\Proyectos Felix\SynContactoADPortal\SynContactoADPortal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\f_vargas.ADPPERU\Documents\Visual Studio 2010\Projects\Proyectos Felix\SynContactoADPortal\SynContactoADPortal\obj\Debug\SynContactoADPortal.dll
+C:\Users\f_vargas.ADPPERU\Documents\Visual Studio 2010\Projects\Proyectos Felix\SynContactoADPortal\SynContactoADPortal\obj\Debug\SynContactoADPortal.pdb
+C:\Users\f_vargas.ADPPERU\Documents\Visual Studio 2010\Projects\Proyectos Felix\SynContactoADPortal1.0\SynContactoADPortal\SynContactoADPortal\bin\Debug\SynContactoADPortal.dll
+C:\Users\f_vargas.ADPPERU\Documents\Visual Studio 2010\Projects\Proyectos Felix\SynContactoADPortal1.0\SynContactoADPortal\SynContactoADPortal\bin\Debug\SynContactoADPortal.pdb
+C:\Users\f_vargas.ADPPERU\Documents\Visual Studio 2010\Projects\Proyectos Felix\SynContactoADPortal1.0\SynContactoADPortal\SynContactoADPortal\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\Users\f_vargas.ADPPERU\Documents\Visual Studio 2010\Projects\Proyectos Felix\SynContactoADPortal1.0\SynContactoADPortal\SynContactoADPortal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\f_vargas.ADPPERU\Documents\Visual Studio 2010\Projects\Proyectos Felix\SynContactoADPortal1.0\SynContactoADPortal\SynContactoADPortal\obj\Debug\SynContactoADPortal.dll
+C:\Users\f_vargas.ADPPERU\Documents\Visual Studio 2010\Projects\Proyectos Felix\SynContactoADPortal1.0\SynContactoADPortal\SynContactoADPortal\obj\Debug\SynContactoADPortal.pdb
+E:\Utiles\Desarrollos felix\sincronizacion contactos AD portal\SynContactoADPortal1.0\SynContactoADPortal1.0\SynContactoADPortal\SynContactoADPortal\bin\Debug\SynContactoADPortal.dll
+E:\Utiles\Desarrollos felix\sincronizacion contactos AD portal\SynContactoADPortal1.0\SynContactoADPortal1.0\SynContactoADPortal\SynContactoADPortal\bin\Debug\SynContactoADPortal.pdb
+E:\Utiles\Desarrollos felix\sincronizacion contactos AD portal\SynContactoADPortal1.0\SynContactoADPortal1.0\SynContactoADPortal\SynContactoADPortal\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+E:\Utiles\Desarrollos felix\sincronizacion contactos AD portal\SynContactoADPortal1.0\SynContactoADPortal1.0\SynContactoADPortal\SynContactoADPortal\obj\Debug\ResolveAssemblyReference.cache
+E:\Utiles\Desarrollos felix\sincronizacion contactos AD portal\SynContactoADPortal1.0\SynContactoADPortal1.0\SynContactoADPortal\SynContactoADPortal\obj\Debug\SynContactoADPortal.dll
+E:\Utiles\Desarrollos felix\sincronizacion contactos AD portal\SynContactoADPortal1.0\SynContactoADPortal1.0\SynContactoADPortal\SynContactoADPortal\obj\Debug\SynContactoADPortal.pdb
+E:\Utiles\Desarrollos felix\sincronizacion contactos AD portal\SynContactoADPortal\SynContactoADPortal\bin\Debug\SynContactoADPortal.dll
+E:\Utiles\Desarrollos felix\sincronizacion contactos AD portal\SynContactoADPortal\SynContactoADPortal\bin\Debug\SynContactoADPortal.pdb
+E:\Utiles\Desarrollos felix\sincronizacion contactos AD portal\SynContactoADPortal\SynContactoADPortal\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+E:\Utiles\Desarrollos felix\sincronizacion contactos AD portal\SynContactoADPortal\SynContactoADPortal\obj\Debug\ResolveAssemblyReference.cache
+E:\Utiles\Desarrollos felix\sincronizacion contactos AD portal\SynContactoADPortal\SynContactoADPortal\obj\Debug\SynContactoADPortal.dll
+E:\Utiles\Desarrollos felix\sincronizacion contactos AD portal\SynContactoADPortal\SynContactoADPortal\obj\Debug\SynContactoADPortal.pdb
+C:\PROYECTOS\VISUAL STUDIO 3\SynContactoADPortalv5.0\SynContactoADPortalv5.0\SynContactoADPortal\bin\Debug\SynContactoADPortal.dll
+C:\PROYECTOS\VISUAL STUDIO 3\SynContactoADPortalv5.0\SynContactoADPortalv5.0\SynContactoADPortal\bin\Debug\SynContactoADPortal.pdb
+C:\PROYECTOS\VISUAL STUDIO 3\SynContactoADPortalv5.0\SynContactoADPortalv5.0\SynContactoADPortal\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\PROYECTOS\VISUAL STUDIO 3\SynContactoADPortalv5.0\SynContactoADPortalv5.0\SynContactoADPortal\obj\Debug\ResolveAssemblyReference.cache
+C:\PROYECTOS\VISUAL STUDIO 3\SynContactoADPortalv5.0\SynContactoADPortalv5.0\SynContactoADPortal\obj\Debug\SynContactoADPortal.dll
+C:\PROYECTOS\VISUAL STUDIO 3\SynContactoADPortalv5.0\SynContactoADPortalv5.0\SynContactoADPortal\obj\Debug\SynContactoADPortal.pdb
+E:\PROYECTOS\DESARROLLOS\FINALIZADOS\SynContactoADPortal\SynContactoADPortalv5.0\SynContactoADPortal\bin\Debug\SynContactoADPortal.dll
+E:\PROYECTOS\DESARROLLOS\FINALIZADOS\SynContactoADPortal\SynContactoADPortalv5.0\SynContactoADPortal\bin\Debug\SynContactoADPortal.pdb
+E:\PROYECTOS\DESARROLLOS\FINALIZADOS\SynContactoADPortal\SynContactoADPortalv5.0\SynContactoADPortal\obj\Debug\SynContactoADPortal.dll
+E:\PROYECTOS\DESARROLLOS\FINALIZADOS\SynContactoADPortal\SynContactoADPortalv5.0\SynContactoADPortal\obj\Debug\SynContactoADPortal.pdb
+E:\PROYECTOS\DESARROLLOS\FINALIZADOS\SynContactoADPortal\SynContactoADPortalv8.0\SynContactoADPortal\bin\Debug\SynContactoADPortal.dll
+E:\PROYECTOS\DESARROLLOS\FINALIZADOS\SynContactoADPortal\SynContactoADPortalv8.0\SynContactoADPortal\bin\Debug\SynContactoADPortal.pdb
+E:\PROYECTOS\DESARROLLOS\FINALIZADOS\SynContactoADPortal\SynContactoADPortalv8.0\SynContactoADPortal\obj\Debug\SynContactoADPortal.csprojResolveAssemblyReference.cache
+E:\PROYECTOS\DESARROLLOS\FINALIZADOS\SynContactoADPortal\SynContactoADPortalv8.0\SynContactoADPortal\obj\Debug\SynContactoADPortal.dll
+E:\PROYECTOS\DESARROLLOS\FINALIZADOS\SynContactoADPortal\SynContactoADPortalv8.0\SynContactoADPortal\obj\Debug\SynContactoADPortal.pdb

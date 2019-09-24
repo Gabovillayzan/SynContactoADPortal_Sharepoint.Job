@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="7422c9f9-ef66-4149-8eda-909a98942cf8" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="SynContactoADPortal.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="SynContactoADPortal_SynContactoADPortal\Feature.xml" />
+  </FeatureManifests>
+</Solution>
